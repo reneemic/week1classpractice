@@ -15,6 +15,10 @@ public class Arrays {
 		giantWords.add("fum");
 		System.out.println(giantWords);
 		System.out.println("my list has " + giantWords.size() + " elements");
+		
+		giantWords.add("frick");
+		System.out.println(giantWords);
+		System.out.println("my list has " + giantWords.size() + " elements");
 	}
 
 }

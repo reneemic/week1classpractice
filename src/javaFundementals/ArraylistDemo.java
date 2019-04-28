@@ -53,12 +53,12 @@ public class ArraylistDemo {
 	}
 	
 	if(myNumber.contains(77)) {
-		System.out.println("77 is not our collection");
+		System.out.println("77 is in our collection");
 	}else {
 		System.out.println("77 Not in our collection");
 	}
 	if(myNumber.contains(15)) {
-		System.out.println("15 is no our collection");
+		System.out.println("15 is not our collection");
 	}else {
 		System.out.println("15 Not in our collection");
 	}
